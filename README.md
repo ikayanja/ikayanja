@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ugstream](https://github.com/ikayanja/ugstream)
 
-- 🌱 I’m currently learning **Typescript, and React**
+- 🌱 I’m currently learning **Typescript, ML and messing with AI models**
 
 - 👯 I’m looking to collaborate on [Techyuzer](https://techyuzer.com)
 
