@@ -7,12 +7,10 @@
 
 - 🌱 I’m currently learning **Typescript, ML and messing with AI models**
 
-- 👯 I’m looking to collaborate on [Techyuzer](https://techyuzer.com)
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ikayanja](https://linktr.ee/ikayanja)
-
 - 📝 I regularly write articles on [https://techyuzer.com](https://techyuzer.com)
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/ikayanja](https://linktr.ee/ikayanja)
+  
 - 💬 Ask me about **Python, JavaScript, Java, Flutter and C#**
 
 <h3 align="left">Connect with me:</h3>
