@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/harryfosho" target="blank"><img src="https://img.shields.io/twitter/follow/harryfosho?logo=twitter&style=for-the-badge" alt="harryfosho" /></a> </p>
 
-- 🔭 I’m currently working on [Yamba](https://github.com/ikayanja/ugstream)
+- 🔭 I’m currently working on [ugstream](https://github.com/ikayanja/ugstream)
 
 - 🌱 I’m currently learning **Typescript, and React**
 
