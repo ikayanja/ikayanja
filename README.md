@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ikayanja](https://linktr.ee/ikayanja)
   
-- 💬 Ask me about **Python, JavaScript, Java, Flutter and C#**
+- 💬 Ask me about **Python, TypeScript, NEXT.Js, JavaScript, Java, Flutter and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
